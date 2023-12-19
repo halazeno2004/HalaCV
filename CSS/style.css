@@ -383,7 +383,6 @@ header {
 .navbar {
   background-color: rgba(243, 232, 255, 0.8);
   backdrop-filter: blur(10px); 
-  position: absolute;
   width: 100%;
   top: 0;
   transition: background-color 0.3s ease, backdrop-filter 0.3s ease; 
